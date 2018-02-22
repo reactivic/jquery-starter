@@ -2,6 +2,7 @@ body{
   font-family: 'Droid Sans', 'Helvetica', Arial, sans-serif;
   margin:5px;
 }
+
 #map{
   display: block;
   width: 95%;
@@ -14,10 +15,12 @@ body{
 
 h1 {
   text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 table {
-  margin-top: 50;
+  margin-top: 50px;
 }
 
 .overlay{
